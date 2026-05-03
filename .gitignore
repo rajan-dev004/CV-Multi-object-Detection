@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Models and Data (Optional: keeping small models like yolov8n.pt if desired, but usually ignored)
+# yolov8n.pt
+
+# Project specific
+outputs/
+data/
+.DS_Store
